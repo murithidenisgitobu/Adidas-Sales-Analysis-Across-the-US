@@ -85,11 +85,6 @@ This project analyzes Adidas retail sales data to uncover key business insights 
 * Analyzed regional performance vs. profitability
 * Uncovered monthly and weekly sales trends
 * Recommended actions to improve pricing, marketing, and stock strategies
+* Developed predictive models for sales forecasting
 
 ---
-
-## 💡 Next Steps
-
-* Develop predictive models for sales forecasting
-* Build dashboards for real-time performance tracking
-* Integrate external data (e.g., promotions, holidays, weather) for deeper trend analysis
